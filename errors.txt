@@ -1,0 +1,9 @@
+Arduino: 1.6.5 (Windows 8.1), Board: "NodeMCU 1.0 (ESP-12E Module), 80 MHz, 115200, 4M (3M SPIFFS)"
+
+C:\Users\Omkar\AppData\Roaming\Arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\bin\xtensa-lx106-elf-ar: unable to rename 
+'C:\Users\Omkar\AppData\Local\Temp\build9129526489578027224.tmp/arduino.ar'; reason: Permission denied
+Error compiling.
+
+  This report would have more information with
+  "Show verbose output during compilation"
+  enabled in File > Preferences.
